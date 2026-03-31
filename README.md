@@ -745,6 +745,8 @@ This source is **not directly compilable** from this repo alone:
 - The compiled `cli.js` is a self-contained 12MB bundle requiring only Node.js >= 18
 - Source maps (`cli.js.map`, 60MB) map back to these source files for debugging
 
+**See [QUICKSTART.md](QUICKSTART.md) for build instructions and workarounds.**
+
 ---
 
 ## License
